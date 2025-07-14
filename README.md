@@ -26,16 +26,16 @@ This is *a revolution for Roblox creators.*
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ **HTML → Lua**  
-Write your UI layouts in familiar HTML, and instantly convert them into working Roblox Lua scripts.
+Write your UI layouts in familiar HTML, and instantly convert them into working Roblox Luau scripts.
 
 ✅ **CSS → Lua**  
 Define your styles in CSS, and watch as they seamlessly apply to your Roblox GUIs in Lua.
 
 ✅ **Magic Wand Tool (from Photoshop)**  
-Select elements by color and shape just like in Photoshop — perfect for fine-tuning your designs.
+Select elements by color and shape just like in Photoshop, perfect for fine-tuning your designs.
 
 ✅ **Eyedropper Tool (from Photoshop)**  
 Grab any color on your canvas instantly to keep your palette consistent and professional.
@@ -44,7 +44,7 @@ Grab any color on your canvas instantly to keep your palette consistent and prof
 Save your custom GUI components as prefabs and stamp them anywhere in your project, anytime.
 
 ✅ **Advanced Gradient Tool (from Photoshop)**  
-Design complex, beautiful gradients directly in Studio — linear, radial, and more.
+Design complex, beautiful gradients directly in Studio. Linear, radial, and more.
 
 ✅ **Most Advanced: Pen Tool (from Photoshop)**  
 The crown jewel of *Shapes*.  
