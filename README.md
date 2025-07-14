@@ -16,11 +16,13 @@ This is *a revolution for Roblox creators.*
 
 ## 📷 Screenshots
 
-> Replace these placeholders with actual plugin screenshots.
+> Full screenshot of shapes plugin.
 
-| Magic Wand | Gradient Tool | Pen Tool |
-|------------|---------------|----------|
-| ![Magic Wand](PLACEHOLDER_MAGIC_WAND) | ![Gradient Tool](PLACEHOLDER_GRADIENT) | ![Pen Tool](PLACEHOLDER_PEN) |
+![SHAPES_SS](https://github.com/AntSAmE/Shapes/blob/main/assets/SHAPES.png)
+
+> Tools (will be added more as updates come)
+
+![SHAPE_TOOLS](https://github.com/AntSAmE/Shapes/blob/main/assets/Tools.png)
 
 ---
 
