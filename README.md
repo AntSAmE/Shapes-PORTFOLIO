@@ -1,6 +1,6 @@
 # 🎨 Shapes — Photoshop power, Roblox Studio simplicity.
 
-![Shapes Logo](PLACEHOLDER_FOR_LOGO_IMAGE)
+![Shapes Logo](https://github.com/AntSAmE/Shapes/blob/main/assets/Shapes_Plugin_logo.png)
 
 ## 🚀 Redefining Roblox Studio
 
