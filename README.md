@@ -55,7 +55,6 @@ Draw precise paths and curves with professional Bézier control, edit anchor poi
 ## 📦 Installation
 
 Coming soon to Roblox Studio plugin marketplace!  
-For now, clone/download this repository and install manually.
 
 ---
 
@@ -65,19 +64,6 @@ For now, clone/download this repository and install manually.
 > This plugin is currently in **early alpha**.  
 > Features and UI are still evolving, and bugs may exist.  
 > Please report issues via GitHub Issues tab and check back often for updates.
-
----
-
-## 🛠️ Contributing
-
-We welcome contributions, feedback, and feature suggestions!  
-Open a pull request or an issue anytime.
-
----
-
-## 📄 License
-
-MIT License.
 
 ---
 
