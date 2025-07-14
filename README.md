@@ -2,13 +2,13 @@
 
 ![Shapes Logo](https://github.com/AntSAmE/Shapes/blob/main/assets/Shapes_Plugin_logo.png)
 
-## 🚀 Redefining Roblox Studio
+## 🚀 Will take Roblox Studio to a new level
 
 Roblox Studio has never been this powerful.  
 With **Shapes**, we’re blurring the line between professional design and Roblox game development.  
 For the first time ever, you can bring the creativity of Photoshop directly into Roblox Studio, no more jumping between apps, no more compromises.  
 
-*Shapes* lets you craft beautiful, precise, and responsive UIs right where you build.  
+*Shapes* lets you create beautiful, precise, and responsive UIs right where you build.  
 This isn’t just a plugin.  
 This is *a revolution for Roblox creators.*
 
